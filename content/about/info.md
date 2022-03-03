@@ -11,6 +11,4 @@ contact_info:
 type: ''
 
 ---
-## This is made with [Forestry](https://forestry.io/ "Forestry.io") & [Hugo](https://gohugo.io/ "Hugo SSG").
-
-## To get started, import this site into Forestry or checkout the repository [here](https://github.com/kendallstrautman/starter-blog-hugo "forestry starter blog hugo").
+## I’m a data science, analytics and engineering manager. I made the switch from coding into management roles so I could focus on bringing out the best in people. I love creating innovation, enhancing culture, collaborating with people, growing and developing teams - all in a supportive environment.
